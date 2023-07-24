@@ -1,0 +1,64 @@
+@font-face {
+    font-family: Vazir;
+    src: url('../fonts/Vazir-FD.eot');
+    src: url('../fonts/Vazir-FD.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Vazir-FD.woff') format('woff'),
+    url('../fonts/Vazir-FD.ttf') format('truetype');
+    font-weight: normal;
+}
+
+
+.tooltip,.popover{
+    font-family: Vazir;
+}
+body{
+    font-family: Vazir;
+}
+
+#main{
+    padding-top: 100px;
+}
+
+.star{
+    color: red;
+}
+
+label.error{
+    color: red;
+}
+
+.btn{
+    outline: none !important;
+}
+
+
+#page{
+    width: 100px;
+    text-align: center;
+    margin-left: 5px;
+}
+
+#pagination li a{
+    height: 42px;
+    padding-top: 11px;
+}
+
+#form-search{
+    margin-bottom: 20px;
+}
+
+#tab-product div.tab-pane{
+    padding-top: 20px;
+}
+
+.select2-100{
+    width: 100% !important;
+}
+.nav-tabs>li.active>a{
+    color: #337ab7;
+}
+
+.imageUploader{
+    cursor: pointer;
+}
+
